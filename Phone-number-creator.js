@@ -19,3 +19,5 @@ function createPhoneNumber(numbers){
       + '-' 
       + numbers.substring(6);
 }
+
+// or
